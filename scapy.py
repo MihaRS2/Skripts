@@ -1,3 +1,4 @@
+# This script will help you collect information about all devices on the network and create a report
 import scapy.all as scapy
 import socket
 import csv
